@@ -1,0 +1,25 @@
+body {
+    background-color: #D8D8D8;
+    margin: 0;
+}
+
+.top {
+    background-color: black;
+    background-size: cover;
+    height: 20vh;
+    width: 100%;
+}
+
+.middle {
+    height: 70vh;
+    width: 75%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.bottom {
+    background-color: black;
+    height: 10vh;
+    width: 75%;
+    margin: 0 auto;
+}
