@@ -1,0 +1,42 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.color {
+    height: 100vh;
+    width: 33.02%;
+    display: inline-block;
+    float: left;
+}
+
+.color-1 {
+    background-color: #4A90E2;
+}
+
+.color-2 {
+    background-color: #50E3C2;  
+}
+
+.color-3 {
+    background-color: #B8E986;
+    position: relative;
+}
+
+.image {
+    width: 100%;
+    height: 20%;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.placeholder {
+    color: #fff;
+    font-size: 30px;
+}
+
